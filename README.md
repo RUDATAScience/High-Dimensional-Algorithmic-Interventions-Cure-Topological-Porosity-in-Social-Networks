@@ -44,3 +44,8 @@ The simulations require the following Python libraries:
 To install the required packages:
 ```bash
 pip install numpy scipy matplotlib pandas numba tqdm
+
+
+OutputsUpon execution, each script generates:.csv files containing normalized topological defect tracking across all time steps..png visualizations mapping phase transitions (Burn-in, Pathogenesis, Hysteresis, and Intervention).A .zip archive aggregating all logs, summary statistics, and plots for macro-scale networks ($N=10^3$ to $N=10^7$).
+
+License　This project is licensed under the MIT License - see the LICENSE file for details.
